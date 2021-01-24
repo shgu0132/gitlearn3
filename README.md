@@ -1,1 +1,1 @@
-# slearngit1temp
+Welcome to Git and Github training from SimpliLearn!!
